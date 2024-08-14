@@ -1319,38 +1319,6 @@
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.webp"
         },
-        "fleet": {
-            "app_readme": "<p>Fleet provides an online web interface which displays a set of maintained images from one or more owned repositories.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/fleet\">https://truecharts.org/charts/stable/fleet</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "categories": [
-                "incubator"
-            ],
-            "description": "Fleet provides an online web interface which displays a set of maintained images from one or more owned repositories.",
-            "healthy": true,
-            "healthy_error": null,
-            "home": "https://truecharts.org/charts/stable/fleet",
-            "location": "/home/runner/_work/catalog/catalog/stable/fleet",
-            "latest_version": "13.1.9",
-            "latest_app_version": "2.3.3",
-            "latest_human_version": "2.3.3_13.1.9",
-            "last_update": "2024-05-29 12:35:14",
-            "name": "fleet",
-            "recommended": false,
-            "title": "Fleet",
-            "maintainers": [
-                {
-                    "name": "TrueCharts",
-                    "email": "info@truecharts.org",
-                    "url": "https://truecharts.org"
-                }
-            ],
-            "tags": [],
-            "screenshots": [],
-            "sources": [
-                "https://ghcr.io/linuxserver/fleet",
-                "https://github.com/truecharts/charts/tree/master/charts/stable/fleet"
-            ],
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/fleet.webp"
-        },
         "fluidd": {
             "app_readme": "<p>Fluidd is a free and open-source Klipper web interface for managing your 3d printer.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/fluidd\">https://truecharts.org/charts/stable/fluidd</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
